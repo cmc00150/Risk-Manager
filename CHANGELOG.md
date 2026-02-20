@@ -1,7 +1,4 @@
-# Tauri + Dioxus
+# REGISTRO DE CAMBIOS
 
-This template should help get you started developing with Tauri and Dioxus.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) + [Dioxus](https://marketplace.visualstudio.com/items?itemName=DioxusLabs.dioxus).
+#### Día 20/02/2026
+Rafa - Cambio 1, He migrado toda la puta aplicación.
