@@ -1,0 +1,67 @@
+MAPA: Clasico
+
+CONTINENTE: AmericaDelNorte
+BONUS: 5
+TERRITORIOS:
+- Alaska
+- TerritorioDelNoroeste
+- Groenlandia
+- Alberta
+- Ontario
+- Quebec
+- EstadosUnidosOccidentales
+- EstadosUnidosOrientales
+- AmericaCentral
+
+CONTINENTE: AmericaDelSur
+BONUS: 2
+TERRITORIOS:
+- Venezuela
+- Peru
+- Brasil
+- Argentina
+
+CONTINENTE: Europa
+BONUS: 5
+TERRITORIOS:
+- Islandia
+- Escandinavia
+- Ucrania
+- GranBretana
+- EuropaDelNorte
+- EuropaOccidental
+- EuropaDelSur
+
+CONTINENTE: Africa
+BONUS: 3
+TERRITORIOS:
+- AfricaDelNorte
+- Egipto
+- AfricaOriental
+- Congo
+- AfricaDelSur
+- Madagascar
+
+CONTINENTE: Asia
+BONUS: 7
+TERRITORIOS:
+- Ural
+- Siberia
+- Yakutsk
+- Kamchatka
+- Irkutsk
+- Mongolia
+- Japon
+- Afganistan
+- OrienteMedio
+- India
+- China
+- Siam
+
+CONTINENTE: Oceania
+BONUS: 2
+TERRITORIOS:
+- Indonesia
+- NuevaGuinea
+- AustraliaOccidental
+- AustraliaOriental

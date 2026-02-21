@@ -112,6 +112,10 @@ El formato es el siguiente:
 - Rafa - Cambio 3, He añadido el README.md
 #### Dia...
 
+---
+
+### Gestión de Mapas
+Para gestionar los mapas de Risk, se implementará una clase `MapManager` que se encargará de cargar y almacenar los mapas disponibles. Esta clase lee desde el archivo /resources/archives/mapas.txt, donde se encuentran los mapas en formato .txt. Cada mapa incluye información sobre los territorios, continentes y bonus.
 
 ---
 
@@ -119,6 +123,7 @@ El formato es el siguiente:
 
 - Implementar la ventana principal con JavaFX.
 - Tener elección de diferentes Mapa de Risk.
+- Implementar la lógica para leer el archivo de mapas y cargar los datos en la aplicación.
 - Poder elegir el número de jugadores.
 - Primero tendremos únicamente la opción de jugar todos en una misma pantalla. BOCETO: 
 ![img.png](boceto.png)
